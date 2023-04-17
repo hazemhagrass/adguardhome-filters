@@ -1,0 +1,8 @@
+||search.handycafe^
+||ad.handycafe^
+||ads.handycafe^
+||ad4.handycafe^
+*search.handycafe*
+*ad.handycafe*
+*ads.handycafe*
+*ad4.handycafe*
