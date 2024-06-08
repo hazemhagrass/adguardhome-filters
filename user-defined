@@ -4,6 +4,10 @@
 #
 @@||*^$client=127.0.0.1
 !
+# Corsair
+#
+@@||web.corsair.com^$important
+!
 # PI Hole
 #
 @@||b2discourse.pi-hole.net^$important
