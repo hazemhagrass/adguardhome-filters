@@ -1,9 +1,19 @@
-#Riot
+!
+# Localhost
+#
+@@||*^$client=127.0.0.1
+!
+# Riot
+#
 @@||riotgames.com^$important
 @@||analytics.developer.riotgames.com^$important
-#Talabat
+!
+# Talabat
+#
 @@||track.talabat.com^$important
-#WhatsApp
+!
+# WhatsApp
+#
 @@||dit.whatsapp.net^$important
 @@||mmg.whatsapp.net^$important
 @@||g.whatsapp.net^$important
@@ -11,48 +21,143 @@
 @@||e3.whatsapp.net^$important
 @@||e4.whatsapp.net^$important
 @@||e6.whatsapp.net^$important
-#Blizzard
+!
+# Blizzard
+#
 @@||telemetry-in.battle.net^$important
-#Roblox From Microsoft Store
-@@||ephemeralcounters.api.roblox.com^$important
-@@||ecsv2.roblox.com^$important
-#Instapay
+!
+# Instapay
+#
 @@||in1.wzrkt.com^$important
 @@||wzrkt.com^$important
-#Roblox From Microsoft Store
+!
+# Roblox (Microsoft Store)
+#
 @@||ephemeralcounters.api.roblox.com^$important
 @@||ecsv2.roblox.com^$important
+!
 # DLL Files
+#
 @@||www.dll-files.com^$important
-#Speed Test
+!
+# Speedtest
+#
 @@||gurgle.speedtest.net^$important
-#Amazon
+!
+# Amazon
+#
 @@||fls-na.amazon.com^$important
-#App Store
+!
+# App Store
+#
 @@||app.adjust.com^$important
-#Hazem Development Work
-@@||ssl.google-analytics.com^$client='Hazem'
-@@||analytics.google.com^$client='Hazem'
-@@||www.googletagmanager.com^$client='Hazem'
-@@||www.googletagmanager.com^$client='Hazem'
-@@||www.google-analytics.com^$client='Hazem'
-@@||g.doubleclick.net^$client='Hazem'
-@@||td.doubleclick.net^$client='Hazem'
-@@||geolocation.onetrust.com^$client='Hazem'
-@@||project3.bionicclick.com^$important
-@@||project4.bionicclick.com^$important
-@@||project5.bionicclick.com^$important
-@@||b2discourse.pi-hole.net^$important
-@@||us-west-2.prod.pr.analytics.console.aws.a2z.com^$important
-#Eset 
+!
+# Eset
+#
 @@||refer.eset.com^$important
 @@||edf.eset.com^$important
-#Instagram
+!
+# Instagram
+#
 @@||graph.instagram.com^$important
 @@||i.instagram.com^$important
 @@||i-fallback.instagram.com^$important
 @@||gateway.instagram.com^$important
-#Other
+!
+# Blue Stacks
+#
+@@||mac-cdn.bluestacks.com^$important
+!
+# Digital Ocean
+#
+@@||api2.branch.io^$important
+@@||tracking.digitalocean.com^$important
+@@||auth.split.io^$important
+@@||sdk.split.io^$important
+!
+# Wordpress
+#
+@@||stats.wp.com^$important
+@@||pixel.wp.com^$important
+!
+# RapidAPI
+#
+@@||events.launchdarkly.com^$important
+@@||api.segment.io^$important
+@@||cdn.segment.com^$important
+@@||tpc.googlesyndication.com^$important
+!
+# Corsair
+#
+@@||web.corsair.com^$important
+#Malrwarebytes
+@@||telemetry.malwarebytes.com^$important
+!
+# Skype
+#
+||apps.skype.com^
+||api.skype.com^
+||devapps.skype.net^
+||preapps.skype.net^
+||devads.skypeassets.net^
+||qawww.skypeassets.net^
+||static.skypeassets.com^
+||static.skypeassets.net^
+||lm.auslogics.com^
+!
+# Microsoft telemetry
+#
+||*telemetry*.microsoft.com*^
+||*telemetry*.appex.bing.net^
+||*vortex*.data.microsoft.com^
+||choice.microsoft.com*^
+||watson.microsoft.com^
+||watson.live.com^
+||ads*.msn.com.*
+||vo.msecnd.net^
+||i1.services.social.microsoft.com*^
+||spynet*.microsoft.com^
+!
+# Microsoft
+#
+||compatexchange.cloudapp.net^
+||statsfe2.update.microsoft.com.akadns.net^
+||sls.update.microsoft.com.akadns.net^
+||diagnostics.support.microsoft.com^
+||feedback.windows.com^
+||data.microsoft.com^
+!
+# uTorrent ads
+#
+||static.ap.bittorrent.com^
+!
+# 4shared
+#
+@@||4shared.com^$important
+!
+# Facebook
+#
+@@||mobile.facebook.com^$important
+@@||graph.facebook.com
+@@||edge-chat.facebook.com^$important
+@@||star.c10r.facebook.com
+@@||web.facebook.com
+!
+# Zoom
+#
+@@||zoom.us^$important
+!
+# Google
+#
+@@||fonts.gstatic.com^$important
+!
+!
+# Others
+#
+@@||ssl.p.jwpcdn.com^$important
+@@||olg.ca^$important
+@@||track.4px.com^$important
+#@@||ad.admitad.com^$important
 @@||gurgle.zdbb.net^$important
 @@||collector.github.com^$important
 @@||mdbcdn.b-cdn.net^$important
@@ -68,24 +173,4 @@
 @@||script.hotjar.com^$important
 @@||static.hotjar.com^$important
 @@||api-js.mixpanel.com^$important
-#BlueStacks
-@@||mac-cdn.bluestacks.com^$important
-#Digital Ocean
-@@||api2.branch.io^$important
-@@||tracking.digitalocean.com^$important
-@@||auth.split.io^$important
-@@||sdk.split.io^$important
-#Wordpress
-@@||stats.wp.com^$important
-@@||pixel.wp.com^$important
-#RapidAPI
-@@||events.launchdarkly.com^$important
-@@||api.segment.io^$important
-@@||cdn.segment.com^$important
-@@||tpc.googlesyndication.com^$important
-#Corsair
-@@||web.corsair.com^$important
-#Malrwarebytes
-@@||telemetry.malwarebytes.com^$important
-#Skype
-@@||c1.skype.com^$important
+!
