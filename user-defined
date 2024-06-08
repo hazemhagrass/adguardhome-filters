@@ -162,11 +162,10 @@
 !
 # Bionic Click
 #
-@@||fonts.gstatic.com^$important
-!
 @@||project3.bionicclick.com^$important
 @@||project4.bionicclick.com^$important
 @@||project5.bionicclick.com^$important
+!
 # Others
 #
 @@||ssl.p.jwpcdn.com^$important
