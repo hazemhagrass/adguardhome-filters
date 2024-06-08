@@ -1,0 +1,12 @@
+# DO NOT BLOCK RULES FOR Hazem
+!
+# Development For Hazem
+#
+@@||ssl.google-analytics.com^$client='Hazem'
+@@||analytics.google.com^$client='Hazem'
+@@||www.googletagmanager.com^$client='Hazem'
+@@||www.googletagmanager.com^$client='Hazem'
+@@||www.google-analytics.com^$client='Hazem'
+@@||g.doubleclick.net^$client='Hazem'
+@@||td.doubleclick.net^$client='Hazem'
+@@||geolocation.onetrust.com^$client='Hazem'
