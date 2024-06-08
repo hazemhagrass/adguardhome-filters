@@ -1,7 +1,12 @@
+# DO NOT BLOCK RULES
 !
 # Localhost
 #
 @@||*^$client=127.0.0.1
+!
+# PI Hole
+#
+@@||b2discourse.pi-hole.net^$important
 !
 # Riot
 #
@@ -47,6 +52,10 @@
 # Amazon
 #
 @@||fls-na.amazon.com^$important
+!
+# Amazon AWS
+#
+@@||us-west-2.prod.pr.analytics.console.aws.a2z.com^$important
 !
 # App Store
 #
