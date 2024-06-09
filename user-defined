@@ -191,6 +191,10 @@
 #
 @@||api2.amplitude.com^$important
 !
+# Firebase
+#
+@@||@@||app-measurement.com^$important
+!
 # Others
 #
 @@||ssl.p.jwpcdn.com^$important
@@ -212,5 +216,4 @@
 @@||script.hotjar.com^$important
 @@||static.hotjar.com^$important
 @@||api-js.mixpanel.com^$important
-@@||app-measurement.com^$important
 !
