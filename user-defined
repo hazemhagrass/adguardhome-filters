@@ -9,6 +9,9 @@
 @@||eg.info.lgsmartad.com^$important
 @@||remote-data.asnapieu.com^$important
 !
+# Netflix
+#
+@@||logs.netflix.com^$important
 # Playstation
 #
 @@||smetrics.aem.playstation.com^$important
@@ -193,7 +196,7 @@
 !
 # Firebase
 #
-@@||@@||app-measurement.com^$important
+@@||app-measurement.com^$important
 !
 # Others
 #
