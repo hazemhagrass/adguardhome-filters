@@ -184,6 +184,10 @@
 #
 @@||zoom.us^$important
 !
+# Paypal
+#
+@@||api.sprig.com^$important
+!
 # Google
 #
 @@||fonts.gstatic.com^$important
