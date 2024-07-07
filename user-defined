@@ -187,6 +187,7 @@
 # Paypal
 #
 @@||api.sprig.com^$important
+@@||b.stats.paypal.com^$important
 !
 # Google
 #
