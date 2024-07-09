@@ -211,6 +211,7 @@
 #
 @@||cdn.optimizely.com^$important
 @@||datadoghq-browser-agent.com^$important
+@@||logx.optimizely.com^$important
 !
 # Others
 #
