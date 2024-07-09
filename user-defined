@@ -207,6 +207,10 @@
 #
 @@||app-measurement.com^$important
 !
+# ADP
+#
+@@||cdn.optimizely.com^$important
+!
 # Others
 #
 @@||ssl.p.jwpcdn.com^$important
