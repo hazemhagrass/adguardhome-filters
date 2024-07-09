@@ -210,6 +210,7 @@
 # ADP
 #
 @@||cdn.optimizely.com^$important
+@@||datadoghq-browser-agent.com^$important
 !
 # Others
 #
