@@ -212,7 +212,8 @@
 @@||cdn.optimizely.com^$important
 @@||datadoghq-browser-agent.com^$important
 @@||logx.optimizely.com^$important
-@@||mage.online.adp.com^$important
+@@||image.online.adp.com^$important
+@@||atag.demandbase.com^$important
 !
 # Others
 #
