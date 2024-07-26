@@ -12,6 +12,10 @@
 # Netflix
 #
 @@||logs.netflix.com^$important
+!
+# Plex
+#
+@@||analytics.plex.tv^$important
 # Playstation
 #
 @@||smetrics.aem.playstation.com^$important
