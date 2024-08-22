@@ -8,6 +8,10 @@
 #
 @@||tracking.epicgames.com^$important
 !
+# Samsung
+#
+@@||sspapi-prd.samsungrs.com^$important
+!
 # LG
 #
 @@||eg.info.lgsmartad.com^$important
