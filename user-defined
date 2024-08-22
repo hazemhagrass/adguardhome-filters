@@ -25,6 +25,10 @@
 #
 @@||analytics.plex.tv^$important
 !
+# Sony
+#
+@@||ca.account.sony.com^$important
+!
 # Playstation
 #
 @@||smetrics.aem.playstation.com^$important
