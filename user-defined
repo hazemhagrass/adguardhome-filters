@@ -116,9 +116,10 @@
 @@||auth.split.io^$important
 @@||sdk.split.io^$important
 !
-# Mi
+# Mi/Xiaomi
 #
 @@||tracking.miui.com^$important
+@@||sdkconfig.ad.xiaomi.com^$important
 !
 # Wordpress
 #
