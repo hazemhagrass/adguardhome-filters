@@ -116,6 +116,10 @@
 @@||auth.split.io^$important
 @@||sdk.split.io^$important
 !
+# Mi
+#
+@@||tracking.miui.com^$important
+!
 # Wordpress
 #
 @@||stats.wp.com^$important
