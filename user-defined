@@ -17,6 +17,10 @@
 @@||eg.info.lgsmartad.com^$important
 @@||remote-data.asnapieu.com^$important
 !
+# Cloudflare
+#
+@@||static.cloudflareinsights.com^$important
+!
 # Netflix
 #
 @@||logs.netflix.com^$important
