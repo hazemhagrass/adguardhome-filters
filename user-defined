@@ -4,6 +4,11 @@
 #
 @@||*^$client=127.0.0.1
 !
+# General for game lunchers
+#
+@@||beacons4.gvt2.com^$important
+@@||beacons5.gvt2.com^$important
+!
 # Grammarly
 #
 @@||extension.femetrics.grammarly.io^$important
