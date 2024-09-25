@@ -13,8 +13,8 @@
 !
 # SMYTH
 #
-@@||us.i.posthog.com^$important
-@@||sessions.bugsnag.com^$important
+@@||posthog.com^$important
+@@||bugsnag.com^$important
 !
 # Human Verification
 #
