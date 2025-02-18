@@ -116,6 +116,8 @@
 #
 @@||ephemeralcounters.api.roblox.com^$important
 @@||ecsv2.roblox.com^$important
+@@||client-telemetry.roblox.com^$important
+
 !
 # DLL Files
 #
@@ -250,6 +252,8 @@
 # Google
 #
 @@||fonts.gstatic.com^$important
+@@||googleleads.g.doubleclick.net^$important
+@@||static.doubleclick.net^$important
 !
 # Bionic Click
 #
