@@ -14,6 +14,7 @@
 # Apple
 #
 @@||apple.com^$important
+@@||iadsdk.apple.com^$important
 @@||tr.iadsdk.apple.com^$important
 @@||ca.iadsdk.apple.com^$important
 @@||cf.iadsdk.apple.com^$important
