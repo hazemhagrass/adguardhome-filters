@@ -10,6 +10,11 @@
 @@||iterable.com^$important
 @@||heapanalytics.com^$important
 @@||statsigapi.net^$important
+
+!
+# Youtube
+#
+@@||s.youtube.com^$important
 !
 # iMazing
 #
@@ -152,6 +157,7 @@
 # Amazon
 #
 @@||fls-na.amazon.com^$important
+@@||aax-eu.amazon.eg^$important
 !
 # Amazon AWS
 #
@@ -276,6 +282,7 @@
 @@||fonts.gstatic.com^$important
 @@||googleleads.g.doubleclick.net^$important
 @@||static.doubleclick.net^$important
+@@||pubads.g.doubleclick.net^$important
 !
 # Bionic Click
 #
