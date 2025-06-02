@@ -45,6 +45,8 @@
 # Zynga
 #
 @@||zynga.com^$important
+@@||uwg-farm2-staging.cdn.zynga.com^$important
+@@||zgn.static.zynga.com^$important
 !
 # Nvidia
 #
