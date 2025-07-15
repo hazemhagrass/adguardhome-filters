@@ -11,6 +11,34 @@
 @@||heapanalytics.com^$important
 @@||statsigapi.net^$important
 !
+# Deel
+#
+@@||my3snmjl.r.eu-west-1.awstrack.me^$important
+@@||awstrack.me^$important
+!
+# DLink
+#
+@@||applicationinsights.azure.com^$important
+@@||minerva.devices.a2z.com^$important
+@@||eastus-8.in.applicationinsights.azure.com^$important
+@@||b79c66077e27a1c100292a6aa5da291cfa7da7ef982a7d0d2708be38d76b31f.us-east-1.prod.service.minerva.devices.a2z.com^$important
+!
+# Apple
+#
+@@||apple.com^$important
+@@||iadsdk.apple.com^$important
+@@||tr.iadsdk.apple.com^$important
+@@||ca.iadsdk.apple.com^$important
+@@||cf.iadsdk.apple.com^$important
+!
+# Youtube
+#
+@@||s.youtube.com^$important
+!
+# iMazing
+#
+@@||downloads.imazing.com^$important
+!
 # Cudo Miner
 #
 @@||download.cudo.org^$important
@@ -22,6 +50,8 @@
 # Zynga
 #
 @@||zynga.com^$important
+@@||uwg-farm2-staging.cdn.zynga.com^$important
+@@||zgn.static.zynga.com^$important
 !
 # Nvidia
 #
@@ -54,6 +84,9 @@
 #
 @@||eg.info.lgsmartad.com^$important
 @@||remote-data.asnapieu.com^$important
+@@||prov-lg.alphonso.tv^important
+@@||cdn.cookielaw.org^important
+@@||eg.ad.lgsmartad.com^$important
 !
 # Cloudflare
 #
@@ -148,6 +181,7 @@
 # Amazon
 #
 @@||fls-na.amazon.com^$important
+@@||aax-eu.amazon.eg^$important
 !
 # Amazon AWS
 #
@@ -272,6 +306,7 @@
 @@||fonts.gstatic.com^$important
 @@||googleleads.g.doubleclick.net^$important
 @@||static.doubleclick.net^$important
+@@||pubads.g.doubleclick.net^$important
 !
 # Bionic Click
 #
