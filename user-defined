@@ -4,6 +4,11 @@
 #
 @@||*^$client=127.0.0.1
 !
+# Cloudinary
+#
+@@||video-analytics-api.cloudinary.com^$important
+@@||cloudinary.com^$important
+!
 # General for game lunchers
 #
 @@||gvt2.com^$important
