@@ -5,3 +5,4 @@
 ||ometv.chat^$important
 ||cdn.ometv.chat^$important
 ||ometv.com^important
+||ome-tv.com^important
