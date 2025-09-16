@@ -6,3 +6,4 @@
 ||cdn.ometv.chat^$important
 ||ometv.com^important
 ||ome-tv.com^important
+||monkey.app^important
