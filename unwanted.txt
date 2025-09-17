@@ -1,9 +1,6 @@
-||uhmegle.com^$important
-||api-web.omegle.fun^$important
-||www.omegle.fun^$important
-||api.ometv.chat^$important
-||ometv.chat^$important
-||cdn.ometv.chat^$important
-||ometv.com^important
-||ome-tv.com^important
-||monkey.app^important
+||*uhmegle.com^$important
+||*omegle.fun^$important
+||*ometv.chat^$important
+||*ometv.com^important
+||*ome-tv.com^important
+||*monkey.app^important
