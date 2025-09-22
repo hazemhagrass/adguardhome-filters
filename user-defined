@@ -4,6 +4,11 @@
 #
 @@||*^$client=127.0.0.1
 !
+# Halo Collar
+#
+@@||to.getnitropack.com^$important
+@@||halocollar.com^$important
+!
 # IQ Option
 #
 @@||api.iqoption.com^$important
