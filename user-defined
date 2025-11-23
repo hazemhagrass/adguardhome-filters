@@ -104,6 +104,13 @@
 #
 @@||sspapi-prd.samsungrs.com^$important
 !
+# Google Play
+#
+@@||ms.applovin.com^$important
+@@||rt.applovin.com^$important
+@@||prod-a4.applovin.com^$important
+@@||applovin.com^$important
+!
 # LG
 #
 @@||eg.info.lgsmartad.com^$important
