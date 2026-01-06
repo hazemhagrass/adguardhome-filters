@@ -32,6 +32,11 @@
 @@||public.profitwell.com^$important
 @@||js.hs-scripts.com^$important
 !
+# Capcut
+#
+@@||capcutstatic.com^$important
+@@||capcut.com^$important
+!
 # Cloudinary
 #
 @@||video-analytics-api.cloudinary.com^$important
