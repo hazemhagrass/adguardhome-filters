@@ -363,6 +363,7 @@
 @@||googleleads.g.doubleclick.net^$important
 @@||static.doubleclick.net^$important
 @@||pubads.g.doubleclick.net^$important
+@@||ogads-pa.clients6.google.com^$important
 !
 # Bionic Click
 #
