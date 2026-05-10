@@ -4,6 +4,10 @@
 #
 @@||*^$client=127.0.0.1
 !
+# Dicebear
+#
+@@||dicebear.com^$important
+!
 # Behance
 #
 @@||cdn.cookielaw.org^$important
