@@ -284,7 +284,9 @@
 !
 # Mi/Xiaomi
 #
+@@||miui.com^$important
 @@||tracking.miui.com^$important
+@@||tracking.intl.miui.com^$important
 @@||sdkconfig.ad.xiaomi.com^$important
 !
 # Wordpress
