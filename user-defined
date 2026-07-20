@@ -409,6 +409,7 @@
 #@@||ad.admitad.com^$important
 @@||gurgle.zdbb.net^$important
 @@||collector.github.com^$important
+@@||collector.githubapp.com^$important
 @@||mdbcdn.b-cdn.net^$important
 @@||device-api.urbanairship.com^$important
 @@||api.rudderlabs.com^$important
@@ -422,4 +423,6 @@
 @@||script.hotjar.com^$important
 @@||static.hotjar.com^$important
 @@||api-js.mixpanel.com^$important
+@@||api.aws.parking.godaddy.com^$important
+
 !
