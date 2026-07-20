@@ -401,6 +401,21 @@
 @@||image.online.adp.com^$important
 @@||atag.demandbase.com^$important
 !
+# Go Daddy
+#
+@@||api.aws.parking.godaddy.com^$important
+@@||cart.godaddy.com^$important
+@@||www.godaddy.com^$important
+@@||dcc.godaddy.com^$important
+@@||gui.godaddy.com^$important
+!
+# Github
+#
+@@||github.com^$important
+@@||collector.github.com^$important
+@@||collector.githubapp.com^$important
+!
+
 # Others
 #
 @@||ssl.p.jwpcdn.com^$important
@@ -408,8 +423,7 @@
 @@||track.4px.com^$important
 #@@||ad.admitad.com^$important
 @@||gurgle.zdbb.net^$important
-@@||collector.github.com^$important
-@@||collector.githubapp.com^$important
+
 @@||mdbcdn.b-cdn.net^$important
 @@||device-api.urbanairship.com^$important
 @@||api.rudderlabs.com^$important
@@ -423,8 +437,4 @@
 @@||script.hotjar.com^$important
 @@||static.hotjar.com^$important
 @@||api-js.mixpanel.com^$important
-@@||api.aws.parking.godaddy.com^$important
-@@||cart.godaddy.com^$important
-@@||www.godaddy.com^$important
-@@||gui.godaddy.com^$important
 ! 
