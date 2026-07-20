@@ -424,5 +424,6 @@
 @@||static.hotjar.com^$important
 @@||api-js.mixpanel.com^$important
 @@||api.aws.parking.godaddy.com^$important
-
-!
+@@||cart.godaddy.com^$important
+@@||www.godaddy.com^$important
+! 
