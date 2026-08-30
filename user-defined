@@ -16,6 +16,11 @@
 @@||auth.services.adobe.com^$important
 @@||adobeid-na1.services.adobe.com^$important
 !
+# Amplitude
+#
+@@||sr-client-cfg.amplitude.com^$important
+@@||amplitude.com^$important
+!
 # Halo Collar
 #
 @@||to.getnitropack.com^$important
