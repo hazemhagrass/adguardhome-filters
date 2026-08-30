@@ -16,6 +16,10 @@
 @@||auth.services.adobe.com^$important
 @@||adobeid-na1.services.adobe.com^$important
 !
+# Quran Audio
+#
+@@||download.quranicaudio.com^$important
+!
 # Amplitude
 #
 @@||sr-client-cfg.amplitude.com^$important
