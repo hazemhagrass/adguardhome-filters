@@ -1,4 +1,5 @@
-# DO NOT BLOCK RULES. IN OTHER WORDS, THIS ARE THE ALLOWED LIST OF URLS
+# DO NOT BLOCK RULES. IN OTHER WORDS, THESE ARE THE ALLOWED LIST OF URLS
+# (A small set of block rules lives in the BLOCK RULES section at the bottom)
 !
 # Localhost
 #
@@ -159,8 +160,7 @@
 #
 @@||eg.info.lgsmartad.com^$important
 @@||remote-data.asnapieu.com^$important
-@@||prov-lg.alphonso.tv^important
-@@||cdn.cookielaw.org^important
+@@||prov-lg.alphonso.tv^$important
 @@||eg.ad.lgsmartad.com^$important
 !
 # Cloudflare
@@ -310,54 +310,17 @@
 @@||cdn.segment.com^$important
 @@||tpc.googlesyndication.com^$important
 !
-# Corsair
+# Malwarebytes
 #
-@@||web.corsair.com^$important
-#Malrwarebytes
 @@||telemetry.malwarebytes.com^$important
 !
-# Skype
+# Slack
 #
-||apps.skype.com^
-||api.skype.com^
-||devapps.skype.net^
-||preapps.skype.net^
-||devads.skypeassets.net^
-||qawww.skypeassets.net^
-||static.skypeassets.com^
-||static.skypeassets.net^
-||lm.auslogics.com^
+@@||slackb.com^$important
 !
-# Microsoft telemetry
+# OpenAI
 #
-||*telemetry*.microsoft.com*^
-||*telemetry*.appex.bing.net^
-||*vortex*.data.microsoft.com^
-||choice.microsoft.com*^
-||watson.microsoft.com^
-||watson.live.com^
-||ads*.msn.com.*
-||vo.msecnd.net^
-||i1.services.social.microsoft.com*^
-||spynet*.microsoft.com^
-!
-# Microsoft
-#
-||compatexchange.cloudapp.net^
-||statsfe2.update.microsoft.com.akadns.net^
-||sls.update.microsoft.com.akadns.net^
-||diagnostics.support.microsoft.com^
-||feedback.windows.com^
-||data.microsoft.com^
-||browser.pipe.aria.microsoft.com^
-!
-# uTorrent ads
-#
-||static.ap.bittorrent.com^
-!
-# DLink Eagle
-#
-||privacy-policy.truste.com^
+@@||openai.com^$important
 !
 # 4shared
 #
@@ -366,10 +329,10 @@
 # Facebook
 #
 @@||mobile.facebook.com^$important
-@@||graph.facebook.com
+@@||graph.facebook.com^$important
 @@||edge-chat.facebook.com^$important
-@@||star.c10r.facebook.com
-@@||web.facebook.com
+@@||star.c10r.facebook.com^$important
+@@||web.facebook.com^$important
 !
 # Zoom
 #
@@ -446,4 +409,53 @@
 @@||script.hotjar.com^$important
 @@||static.hotjar.com^$important
 @@||api-js.mixpanel.com^$important
-! 
+!
+!
+# BLOCK RULES. EVERYTHING BELOW THIS LINE IS BLOCKED, NOT ALLOWED
+!
+# Skype
+#
+||apps.skype.com^
+||api.skype.com^
+||devapps.skype.net^
+||preapps.skype.net^
+||devads.skypeassets.net^
+||qawww.skypeassets.net^
+||static.skypeassets.com^
+||static.skypeassets.net^
+!
+# Auslogics
+#
+||lm.auslogics.com^
+!
+# Microsoft telemetry
+#
+||*telemetry*.microsoft.com*^
+||*telemetry*.appex.bing.net^
+||*vortex*.data.microsoft.com^
+||choice.microsoft.com*^
+||watson.microsoft.com^
+||watson.live.com^
+||ads*.msn.com.*
+||vo.msecnd.net^
+||i1.services.social.microsoft.com*^
+||spynet*.microsoft.com^
+!
+# Microsoft
+#
+||compatexchange.cloudapp.net^
+||statsfe2.update.microsoft.com.akadns.net^
+||sls.update.microsoft.com.akadns.net^
+||diagnostics.support.microsoft.com^
+||feedback.windows.com^
+||data.microsoft.com^
+||browser.pipe.aria.microsoft.com^
+!
+# uTorrent ads
+#
+||static.ap.bittorrent.com^
+!
+# DLink Eagle
+#
+||privacy-policy.truste.com^
+!
