@@ -390,6 +390,31 @@
 @@||collector.githubapp.com^$important
 !
 
+# Udemy
+#
+@@||gtm.udemy.com^$important
+!
+# Zoho PageSense (anti-flicker snippets can blank pages for seconds when blocked)
+#
+@@||cdn-in.pagesense.io^$important
+!
+# Google Tag Manager (already allowed for Hazem only; some sites stall without it)
+#
+@@||www.googletagmanager.com^$important
+!
+# MoEngage (push notifications / in-app messages for apps using its SDK)
+#
+@@||sdk-02.moengage.com^$important
+!
+# Affiliate / coupon link redirects
+#
+@@||ojrq.net^$important
+!
+# X (Twitter) Ads Manager
+#
+@@||ads-api.x.com^$important
+!
+
 # Others
 #
 @@||ssl.p.jwpcdn.com^$important
